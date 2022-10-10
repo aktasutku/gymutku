@@ -46,7 +46,7 @@ const SearchExercises = ({setExercises,bodyPart,setBodyPart}) => {
         textAlign="center"
       >
         Awesome Exercises You <br />
-        Shoul Know
+        Should Know
       </Typography>
       <Box position="relative" mb="72px">
         <TextField
